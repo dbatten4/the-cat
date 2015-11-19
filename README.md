@@ -1,15 +1,7 @@
 ##Makers Academy Octocat Challenge
 
+This is another of the Makers Academy pre course challenges. This challenge focuses on git version control and serves as an introduction to git remotes and pull requests. This repo contains my 
+
 ###Aim
 
 The aim of the exercise is to create a folder with a country that's not in repo yet and add a file with its capital inside the folder.
-
-###To do
-
-* Fork the repo
-* Clone your fork
-* Create an 'upstream' remote
-* Add a folder with a country name
-* Add a text file with the name of the capital
-* Push to your fork
-* Send a pull request to the original repo
